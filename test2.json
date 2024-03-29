@@ -4,38 +4,77 @@
     {
     "questions" : "Quel est l’autre nom de l’Homme-Mystère ?",
     "reponses" : [
-        "Le Sphinx",
-        "Saphir",
-        "Le Joker"
+        {
+        "text":"Le Sphinx",
+        "isGood" : true
+        },
+        {
+        "text":"Saphir",
+        "isGood" :true
+        },
+        {
+        "text":"Le Joker",
+        "isGood" :true
+        }
     ]
     
     },
     {
         "questions" : "Quelle est l’ancienne profession de Harley Quinn ?",
-        "reponses" : [
-        "Infirmière",
-        "Psychiatre",
-        "Dentiste"
+   
+    "reponses" : [
+        {
+        "text":"Infirmière",
+        "isGood" : true
+        },
+        {
+        "text":"Psychiatre",
+        "isGood" :true
+        },
+        {
+        "text":"Dentiste",
+        "isGood" :true
+        }
     ]
     
     },
     
     {
         "questions" : "Quel est l’objet fétiche de Double Face ?",
-        "reponses"  : [
-            "Une pièce",
-            "Un livre",
-            "Un couteau"
+    
+        "reponses" : [
+            {
+            "text":"Une pièce",
+            "isGood" : true
+            },
+            {
+            "text":"Un livre",
+            "isGood" :true
+            },
+            {
+            "text":"Un couteau",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Qui a produit Batman en 1964 ?",
-        "reponses"  : [
-            "Stanley Kubrick ",
-            "Andy Warhol",
-            "Peter Jackson"
+       
+        "reponses" : [
+            {
+            "text":"Stanley Kubrick",
+            "isGood" : true
+            },
+            {
+            "text":"Andy Warhol",
+            "isGood" :true
+            },
+            {
+            "text":"Peter Jackson",
+            "isGood" :true
+            }
         ]
         
         
@@ -44,111 +83,224 @@
     
     {
             "questions" : "Batman c’est aussi le nom d’une ville en...",
-        "reponses"  : [
-            "Turquie",
-            "Islande",
-            "Allemagne"
+      
+        "reponses" : [
+            {
+            "text":"Turquie",
+            "isGood" : true
+            },
+            {
+            "text":"Islande",
+            "isGood" :true
+            },
+            {
+            "text":"Allemagne",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Quel vilain apparaît pour la première fois dans le Batman 232 ?",
-        "reponses"  : [
-            "Le Pingouin",
-            "Ra’s al Ghul",
-            "Poison Ivy"
+      
+        "reponses" : [
+            {
+            "text":"Le Pingouin",
+            "isGood" : true
+            },
+            {
+            "text":"Ra’s al Ghul",
+            "isGood" :true
+            },
+            {
+            "text":"Poison Ivy",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Quelle ville Batman défend-il ?",
-        "reponses"  : [
-            "Gotham City",
-            "Starling City",
-            "Hell’s Kitchen"
+        
+        "reponses" : [
+            {
+            "text":"Gotham City",
+            "isGood" : true
+            },
+            {
+            "text":"Starling City",
+            "isGood" :true
+            },
+            {
+            "text":"Hell’s Kitchen",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Tim Burton a réalisé deux Batman, qui jouait Batman ?",
-        "reponses"  : [
-            "Georges Clooney",
-            "Val Kilmer",
-            "Mickael Keaton"
+        
+        "reponses" : [
+            {
+            "text":"Georges Clooney",
+            "isGood" : true
+            },
+            {
+            "text":"Val Kilmer",
+            "isGood" :true
+            },
+            {
+            "text":"Mickael Keaton",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Dans son premier Batman (1989) Jack Nicholson jouait :",
-        "reponses"  : [
-            "Le Pingouin",
-            "L’Homme Mystère",
-            "Le Joker"
+        
+        "reponses" : [
+            {
+            "text":"Le Pingouin",
+            "isGood" : true
+            },
+            {
+            "text":"L’Homme Mystère",
+            "isGood" :true
+            },
+            {
+            "text":"Le Joker",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Qui est Jonathan Crane ? ",
-        "reponses"  : [
-            "L’Épouvantail",
-            "Le Joker",
-            "Hugo Strange"
+       
+        "reponses" : [
+            {
+            "text":"L’Épouvantail",
+            "isGood" : true
+            },
+            {
+            "text":"Le Joker",
+            "isGood" :true
+            },
+            {
+            "text":"Hugo Strange",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Qui est l’interprète de Catwoman dans le nouveau Batman de Matt Reeves (2022) ?",
-        "reponses"  : [
-            "Emma Watson",
-            "Gigi Hadid",
-            "Lola Iolani Momoa",
-            "Zoë Kravitz"
+       
+        "reponses" : [
+            {
+            "text":"Emma Watson",
+            "isGood" : true
+            },
+            {
+            "text":"Gigi Hadid",
+            "isGood" :true
+            },
+            {
+            "text":"Lola Iolani Momoa",
+            "isGood" :true
+            },
+            {
+             "text":"Zoë Kravitz",
+             "isGood" :true
+                }
         ]
     
     },
     
     {
             "questions" : "Quel est le prénom des parents du jeune Bruce Wayne ?",
-        "reponses"  : [
-            "Thomas et Martha",
-            "Elaine et Georges",
-            "Martha et James"
+        
+        "reponses" : [
+            {
+            "text":"Thomas et Martha",
+            "isGood" : true
+            },
+            {
+            "text":"Elaine et Georges",
+            "isGood" :true
+            },
+            {
+            "text":"Martha et James",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Qui interprète le Joker en 2008 ?",
-        "reponses"  : [
-            "Heath Legder",
-            "Heath Legder",
-            "Heath Legder"
+        
+        "reponses" : [
+            {
+            "text":"Heath Legder",
+            "isGood" : true
+            },
+            {
+            "text":"Heath Legder",
+            "isGood" :true
+            },
+            {
+            "text":"Heath Legder",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "En quelle année Robin fait il sa première apparition ?",
-        "reponses"  : [
-            "1940",
-            "1939",
-            "1941"
+       
+        "reponses" : [
+            {
+            "text":"1940",
+            "isGood" : true
+            },
+            {
+            "text":"1939",
+            "isGood" :true
+            },
+            {
+            "text":"1941",
+            "isGood" :true
+            }
         ]
     
     },
     
     {
             "questions" : "Qui est la fille de Batman et Catwoman (Earth - 2) ?",
-        "reponses"  : [
-            "Oracle",
-            "Huntress",
-            "Black Canary"
+       
+        "reponses" : [
+            {
+            "text":"Oracle",
+            "isGood" : true
+            },
+            {
+            "text":"Huntress",
+            "isGood" :true
+            },
+            {
+            "text":"Black Canary",
+            "isGood" :true
+            }
         ]
     
     }
