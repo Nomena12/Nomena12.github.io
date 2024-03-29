@@ -25,11 +25,11 @@
     "reponses" : [
         {
         "text":"Infirmière",
-        "isGood" : true
+        "isGood" : false
         },
         {
         "text":"Psychiatre",
-        "isGood" :true
+        "isGood" :false
         },
         {
         "text":"Dentiste",
@@ -49,7 +49,7 @@
             },
             {
             "text":"Un livre",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"Un couteau",
@@ -65,11 +65,11 @@
         "reponses" : [
             {
             "text":"Stanley Kubrick",
-            "isGood" : true
+            "isGood" : false
             },
             {
             "text":"Andy Warhol",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"Peter Jackson",
@@ -87,7 +87,7 @@
         "reponses" : [
             {
             "text":"Turquie",
-            "isGood" : true
+            "isGood" : false
             },
             {
             "text":"Islande",
@@ -95,7 +95,7 @@
             },
             {
             "text":"Allemagne",
-            "isGood" :true
+            "isGood" :false
             }
         ]
     
@@ -111,7 +111,7 @@
             },
             {
             "text":"Ra’s al Ghul",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"Poison Ivy",
@@ -131,11 +131,11 @@
             },
             {
             "text":"Starling City",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"Hell’s Kitchen",
-            "isGood" :true
+            "isGood" :false
             }
         ]
     
@@ -147,11 +147,11 @@
         "reponses" : [
             {
             "text":"Georges Clooney",
-            "isGood" : true
+            "isGood" : false
             },
             {
             "text":"Val Kilmer",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"Mickael Keaton",
@@ -171,7 +171,7 @@
             },
             {
             "text":"L’Homme Mystère",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"Le Joker",
@@ -187,7 +187,7 @@
         "reponses" : [
             {
             "text":"L’Épouvantail",
-            "isGood" : true
+            "isGood" : false
             },
             {
             "text":"Le Joker",
@@ -207,7 +207,7 @@
         "reponses" : [
             {
             "text":"Emma Watson",
-            "isGood" : true
+            "isGood" : false
             },
             {
             "text":"Gigi Hadid",
@@ -235,11 +235,11 @@
             },
             {
             "text":"Elaine et Georges",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"Martha et James",
-            "isGood" :true
+            "isGood" :false
             }
         ]
     
@@ -251,15 +251,15 @@
         "reponses" : [
             {
             "text":"Heath Legder",
-            "isGood" : true
+            "isGood" : false
             },
             {
             "text":"Heath Legder",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"Heath Legder",
-            "isGood" :true
+            "isGood" :false
             }
         ]
     
@@ -275,7 +275,7 @@
             },
             {
             "text":"1939",
-            "isGood" :true
+            "isGood" :false
             },
             {
             "text":"1941",
@@ -291,7 +291,7 @@
         "reponses" : [
             {
             "text":"Oracle",
-            "isGood" : true
+            "isGood" : false
             },
             {
             "text":"Huntress",
